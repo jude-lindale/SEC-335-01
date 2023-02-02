@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Modified bash script.
+#Code/Script Credit: Devin Paden or Mackenzie Marsocci
 
 
 prefix=$1
