@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Code/Script Credit: Devin Paden or Mackenzie Marsocci
+#Code/Script Credit: provided by Mackenzie Marsocci
 
 
 prefix=$1
